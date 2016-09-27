@@ -1,6 +1,6 @@
 <?php
 
-use Lingxi\Deploy\Timestamp\TimestampKey;
+use Lingxi\LavevelDeploy\TimestampKey;
 
 class TimestampKeyTest extends PHPUnit_Framework_TestCase
 {
