@@ -1,0 +1,15 @@
+{
+    "name": "lingxi/laravel-deploy",
+    "description": "Deploy laravel application and update config for current version",
+    "keywork": ["laravel", "deploy", "timestamp"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lingxi\\LavevelDeploy\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "minimum-stability": "dev"
+}
