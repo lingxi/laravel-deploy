@@ -23,7 +23,7 @@ class DeployConfigCommand extends KeyGenerateCommand
      */
     public function fire()
     {
-        $this->key = $this->getRandomKey($this->laravel['config']['app.cipher']);
+        $this->key = $this->generateRandomKey($this->laravel['config']['app.cipher']);
 
         if ($this->option('show')) {
             return $this->line('<comment>'.$this->key.'</comment>');
