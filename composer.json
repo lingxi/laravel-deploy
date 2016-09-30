@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Lingxi\\LavevelDeploy\\": "src/"
+            "Lingxi\\LaravelDeploy\\": "src/"
         }
     },
     "require-dev": {

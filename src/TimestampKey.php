@@ -1,6 +1,6 @@
 <?php
 
-namespace Lingxi\LavevelDeploy;
+namespace Lingxi\LaravelDeploy;
 
 trait TimestampKey
 {

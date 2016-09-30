@@ -1,6 +1,6 @@
 <?php
 
-namespace Lingxi\LavevelDeploy;
+namespace Lingxi\LaravelDeploy;
 
 use Illuminate\Support\Str;
 use Illuminate\Foundation\Console\KeyGenerateCommand;
