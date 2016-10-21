@@ -12,7 +12,7 @@
 
 ### Command
 
-    app/console/kernel.php 中注册 Lingxi\LavavelDeploy\DeployConfigCommand
+    app/console/kernel.php 中注册 Lingxi\LaravelDeploy\DeployConfigCommand
 
 ### Usage
 
